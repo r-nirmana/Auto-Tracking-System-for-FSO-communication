@@ -1,6 +1,6 @@
 # Auto-Tracking-System-for-FSO-communication
 
-This describes my first Industrial experience in Electronics and Communications Engineering domain.In this I have worked on designing an Auto tracking
+Here I have worked on designing an Auto tracking
 system for FSO(Free Space Optical) communication.For successful transmission of optical signals, FSO communication
 systems use free space as a communication channel between
 transceivers that are line-of-sight (LOS).The channel can be
