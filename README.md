@@ -8,5 +8,5 @@ atmosphere, space, or vacuum, whose characteristics determine
 the transmission and reception of optical signals for designing
 reliable and efficient communication systems.In this intern period I have studied about FSO communication system,Worked
 on designing an Auto tracking system for FSO Communication
-and further desingned an Application interface for the Auto
+and further desingned a small mobile application for the Auto
 tracking system.
